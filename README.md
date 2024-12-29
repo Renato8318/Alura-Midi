@@ -29,6 +29,7 @@ Os botões destacam-se quando clicados, mostrando ao usuário que o som foi acio
 🛠️ Tecnologias Utilizadas
 
 
+
 HTML5: Estrutura da interface.
 CSS3: Design responsivo e estilização.
 JavaScript: Lógica interativa.
