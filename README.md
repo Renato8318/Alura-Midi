@@ -2,11 +2,6 @@
 
 O **Alura Midi** é um instrumento musical digital desenvolvido para simular sons de diferentes instrumentos. Através de uma interface interativa, cada botão no painel reproduz o som correspondente a um instrumento musical. Este projeto oferece uma experiência imersiva para quem deseja explorar sons e criar músicas de forma simples e intuitiva.
 
-## Imagem do Projeto
-
-![Alura Midi](images/alura-midi.png)
-
-*Descrição da imagem do projeto.*
 
 ## Funcionalidades
 
