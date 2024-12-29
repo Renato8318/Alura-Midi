@@ -79,10 +79,18 @@ Contribuições são sempre bem-vindas!
 Garantir baixa latência na reprodução de sons foi desafiador, e a Web Audio API foi essencial para alcançar precisão.
 
 ♿ Acessibilidade
+
+
 Implementar navegação por teclado tornou o projeto mais inclusivo e acessível a diferentes públicos.
 
+
 📱 Design Responsivo
+
+
 Criar uma interface adaptável a diferentes dispositivos exigiu ajustes finos no CSS e o uso de media queries.
 
+
 📘 Aprendizado
+
+
 Este projeto consolidou conhecimentos em HTML, CSS e JavaScript, com foco na manipulação de eventos do DOM e no uso avançado da Web Audio API para criar experiências interativas.
